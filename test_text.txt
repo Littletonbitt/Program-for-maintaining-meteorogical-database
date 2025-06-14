@@ -1,0 +1,158 @@
+Moscow Oblast
+MSK-001 37.6176-55.7558 2023-05-10 08:00:00 18.5 65 NE 3.2 Rain 5.0 0.12
+
+Leningrad Oblast
+SPB-045 30.3351-59.9343 2023-05-10 09:30:00 20.1 60 SW 4.5 Clear 0.0 0.10
+
+Sverdlovsk Oblast
+EKB-112 60.6057-56.8389 2023-05-10 10:15:00 15.3 72 W 2.8 Drizzle 1.2 0.08
+
+Krasnodar Krai
+KRD-077 38.9753-45.0355 2023-05-10 11:45:00 25.7 45 S 5.1 Clear 0.0 0.15
+
+Arkhangelsk Oblast
+ARH-033 40.5188-64.5393 2023-05-10 12:30:00 12.4 80 N 6.0 Snow 3.5 0.09
+
+Rostov Oblast
+ROV-021 39.7187-47.2224 2023-05-10 13:20:00 22.0 55 E 3.7 Clear 0.0 0.11
+
+Republic of Tatarstan
+KZN-056 49.1088-55.7963 2023-05-10 14:50:00 17.8 68 NW 4.2 Rain 2.8 0.07
+
+Primorsky Krai
+VLA-014 131.8855-43.1155 2023-05-10 15:10:00 10.5 85 SE 7.3 Downpour 12.0 0.13
+
+Samara Oblast
+SAM-088 50.1010-53.1951 2023-05-10 16:40:00 19.3 62 W 2.5 Clear 0.0 0.14
+
+Chelyabinsk Oblast
+CHE-102 61.4026-55.1600 2023-05-10 17:25:00 14.7 75 N 5.5 Hail 0.5 0.06
+
+Stavropol Krai
+STA-067 41.9734-45.0428 2023-05-10 18:15:00 23.5 50 SW 4.0 Clear 0.0 0.16
+
+Nizhny Novgorod Oblast
+NSK-044 44.0055-56.3269 2023-05-10 19:00:00 16.2 70 E 3.1 Rain 4.3 0.10
+
+Murmansk Oblast
+MUR-011 33.0827-68.9585 2023-05-10 20:30:00 8.9 90 NE 8.0 Snow 6.7 0.05
+
+Voronezh Oblast
+VRN-029 39.2003-51.6720 2023-05-10 21:15:00 21.3 58 S 4.8 Clear 0.0 0.17
+
+Republic of Crimea
+CRIM-005 34.1533-44.9521 2023-05-10 22:00:00 26.8 40 SW 6.2 Clear 0.0 0.18
+
+Khabarovsk Krai
+KHB-019 135.0718-48.4802 2023-05-10 23:45:00 9.7 78 NW 9.1 Rain 5.1 0.09
+
+Kaliningrad Oblast
+KGD-007 20.4542-54.7104 2023-05-11 00:30:00 13.5 83 W 7.4 Drizzle 0.4 0.11
+
+Leningrad Oblast
+LG-201 59.9343-30.3351 2025-04-04 10:00:00 6.4 79 N 3.2 Rain 1.7 0.11
+
+Leningrad Oblast
+LG-201 59.9343-30.3351 2025-04-17 13:30:00 9.1 68 SW 4.1 Clear 0.0 0.10
+
+Leningrad Oblast
+LG-203 60.0000-30.2000 2025-04-25 16:45:00 8.5 72 E 2.8 Drizzle 0.6 0.12
+
+Irkutsk Oblast
+IR-411 52.2978-104.2964 2025-07-03 09:15:00 19.3 58 N 3.9 Clear 0.0 0.14
+
+Irkutsk Oblast
+IR-411 52.2978-104.2964 2025-07-18 18:00:00 23.1 49 S 2.5 Downpour 4.4 0.13
+
+Irkutsk Oblast
+IR-415 52.4000-104.1500 2025-07-26 20:40:00 21.2 54 NW 3.1 Thunderstorm 6.0 0.15
+
+Tyumen Oblast
+TM-501 57.1530-65.5343 2025-09-02 08:20:00 10.1 82 W 3.7 Rain 3.2 0.16
+
+Tyumen Oblast
+TM-503 57.2500-65.4000 2025-09-14 12:50:00 12.4 76 SE 2.9 Overcast 0.0 0.15
+
+Tyumen Oblast
+TM-503 57.2500-65.4000 2025-09-21 17:30:00 8.9 88 N 4.5 Downpour 5.6 0.17
+
+Kamchatka Krai
+KM-801 53.0452-158.6517 2025-11-03 11:10:00 -2.6 84 NW 6.1 Snow 4.1 0.18
+
+Kamchatka Krai
+KM-805 53.2000-158.9000 2025-11-11 14:40:00 -5.0 89 SE 5.3 Blizzard 7.9 0.20
+
+Kamchatka Krai
+KM-801 53.0452-158.6517 2025-11-23 09:30:00 -3.8 81 N 3.0 Overcast 0.0 0.19
+
+Moscow Oblast
+MO-003 55.6100-37.6000 2025-01-08 07:30:00 -3.5 80 S 3.0 Snow 3.5 0.12
+
+Moscow Oblast
+MO-003 55.6100-37.6000 2025-01-22 19:10:00 -6.1 74 NW 2.2 Clear 0.0 0.11
+
+Moscow Oblast
+MO-002 55.9000-37.4000 2025-01-25 11:20:00 -8.4 90 E 4.7 Blizzard 7.0 0.15
+
+Krasnodar Krai
+KR-105 45.2000-38.8000 2025-03-07 10:00:00 11.7 65 W 3.5 Rain 2.3 0.09
+
+Krasnodar Krai
+KR-105 45.2000-38.8000 2025-03-16 16:45:00 13.2 58 S 4.9 Clear 0.0 0.08
+
+Krasnodar Krai
+KR-103 44.8900-39.1200 2025-03-25 18:00:00 9.5 70 NE 2.1 Drizzle 0.3 0.10
+
+Novosibirsk Oblast
+NS-315 55.1000-82.9000 2025-06-08 09:00:00 16.4 63 E 2.7 Clear 0.0 0.10
+
+Novosibirsk Oblast
+NS-313 54.9500-83.1000 2025-06-15 14:10:00 22.1 48 SW 3.9 Thunderstorm 5.2 0.13
+
+Novosibirsk Oblast
+NS-315 55.1000-82.9000 2025-06-28 21:30:00 20.5 57 N 2.0 Downpour 4.1 0.12
+
+Republic of Sakha (Yakutia)
+YK-707 62.7000-129.5000 2025-10-05 12:30:00 -5.9 81 N 3.3 Snow 2.8 0.19
+
+Republic of Sakha (Yakutia)
+YK-705 62.5000-130.0000 2025-10-18 07:45:00 -10.7 85 NW 4.6 Blizzard 6.0 0.21
+
+Republic of Sakha (Yakutia)
+YK-707 62.7000-129.5000 2025-10-30 15:40:00 -13.2 90 E 2.5 Overcast 0.0 0.20
+
+Moscow Oblast
+MO-001 55.7558-37.6176 2025-01-10 08:00:00 -5.2 85 NW 3.4 Snow 4.2 0.14
+
+Moscow Oblast
+MO-001 55.7558-37.6176 2025-01-15 14:00:00 -7.6 78 E 2.1 Clear 0.0 0.13
+
+Moscow Oblast
+MO-002 55.9000-37.4000 2025-01-20 10:30:00 -4.0 91 SW 4.0 Blizzard 6.8 0.15
+
+Krasnodar Krai
+KR-101 45.0355-38.9753 2025-03-05 12:00:00 14.3 55 S 5.7 Rain 1.2 0.09
+
+Krasnodar Krai
+KR-101 45.0355-38.9753 2025-03-18 17:20:00 12.0 60 N 2.3 Clear 0.0 0.08
+
+Krasnodar Krai
+KR-103 44.8900-39.1200 2025-03-22 09:45:00 10.8 72 W 3.8 Drizzle 0.5 0.10
+
+Novosibirsk Oblast
+NS-311 55.0415-82.9346 2025-06-11 06:00:00 17.2 68 NW 2.9 Clear 0.0 0.12
+
+Novosibirsk Oblast
+NS-311 55.0415-82.9346 2025-06-19 15:30:00 21.6 51 S 3.6 Downpour 3.0 0.11
+
+Novosibirsk Oblast
+NS-313 54.9500-83.1000 2025-06-24 20:15:00 19.4 60 E 1.8 Thunderstorm 7.5 0.13
+
+Republic of Sakha (Yakutia)
+YK-701 62.0280-129.7326 2025-10-03 10:10:00 -6.8 76 N 4.5 Snow 2.0 0.18
+
+Republic of Sakha (Yakutia)
+YK-701 62.0280-129.7326 2025-10-14 08:45:00 -9.3 83 NE 5.1 Blizzard 5.4 0.19
+
+Republic of Sakha (Yakutia)
+YK-705 62.5000-130.0000 2025-10-28 13:20:00 -12.5 88 SE 3.0 Overcast 0.0 0.20
